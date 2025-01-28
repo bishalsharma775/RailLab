@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVehicleXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VehicleXml>
+    <Guid>061f2555-3cfd-499e-97b5-9983e591276d</Guid>
+    <CoefficientIMT>1.16</CoefficientIMT>
+    <Description>Migrated automatically from old traction unit : BB26000
+ 1LOC "SYBIC" ADHERENCE = 0.33            </Description>
+    <LengthMeters>17</LengthMeters>
+    <MassTons>89</MassTons>
+    <MaximumSpeedKmph>200</MaximumSpeedKmph>
+    <Name>BB26000</Name>
+    <CoefficientA>1.2278</CoefficientA>
+    <CoefficientB>0.01</CoefficientB>
+    <CoefficientC>0.0003371</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>086c4dda-3385-4513-b20f-82d957ed37f7</Guid>
+    <CoefficientIMT>1.04</CoefficientIMT>
+    <Description>Migrated automatically from old rolling stock : CORAIL</Description>
+    <LengthMeters>286</LengthMeters>
+    <MassTons>506</MassTons>
+    <MaximumSpeedKmph>999</MaximumSpeedKmph>
+    <Name>CORAIL 11V</Name>
+    <CoefficientA>0.8596</CoefficientA>
+    <CoefficientB>0.00761</CoefficientB>
+    <CoefficientC>0.000174</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0.000174</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0.000174</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>22fe0d88-cf39-46cc-bb28-c7841c6e30c6</Guid>
+    <CoefficientIMT>1.2</CoefficientIMT>
+    <Description>Migrated automatically from old rolling stock : TRAINLOC</Description>
+    <LengthMeters>0</LengthMeters>
+    <MassTons>0</MassTons>
+    <MaximumSpeedKmph>999</MaximumSpeedKmph>
+    <Name>TRAINLOC</Name>
+    <CoefficientA>1.3</CoefficientA>
+    <CoefficientB>0.01</CoefficientB>
+    <CoefficientC>0.0001875</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0.0001875</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0.0001875</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>428762c8-33f2-4359-815a-3b48a7ba7c9d</Guid>
+    <CoefficientIMT>1.04</CoefficientIMT>
+    <Description>Migrated automatically from old rolling stock : CORAIL</Description>
+    <LengthMeters>182</LengthMeters>
+    <MassTons>322</MassTons>
+    <MaximumSpeedKmph>999</MaximumSpeedKmph>
+    <Name>CORAIL 7V</Name>
+    <CoefficientA>0.8596</CoefficientA>
+    <CoefficientB>0.00761</CoefficientB>
+    <CoefficientC>0.000174</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0.000174</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0.000174</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>5316526c-68ab-4a6f-988d-c508ddc9658d</Guid>
+    <CoefficientIMT>1.04</CoefficientIMT>
+    <Description>Migrated automatically from old rolling stock : CORAIL</Description>
+    <LengthMeters>0</LengthMeters>
+    <MassTons>0</MassTons>
+    <MaximumSpeedKmph>999</MaximumSpeedKmph>
+    <Name>CORAIL 0V</Name>
+    <CoefficientA>0.8596</CoefficientA>
+    <CoefficientB>0.00761</CoefficientB>
+    <CoefficientC>0.000174</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0.000174</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0.000174</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>5ba04e7e-6255-47c8-833b-21c8b476fd6c</Guid>
+    <CoefficientIMT>1.04</CoefficientIMT>
+    <Description>Migrated automatically from old traction unit : 2TGVDUPL1UM
+ TGV DUPLEX 2(M+8R+M)                 </Description>
+    <LengthMeters>400</LengthMeters>
+    <MassTons>848</MassTons>
+    <MaximumSpeedKmph>320</MaximumSpeedKmph>
+    <Name>2TGVDUPL1UM</Name>
+    <CoefficientA>0.6368</CoefficientA>
+    <CoefficientB>0.00755</CoefficientB>
+    <CoefficientC>0.0001199</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>5c4f99e3-bc20-46a7-b13b-534169dd4235</Guid>
+    <CoefficientIMT>1.045</CoefficientIMT>
+    <Description>Migrated automatically from old traction unit : Z26500 4c US[T]
+TER 2N NG QUADRI-CAISSES EN US</Description>
+    <LengthMeters>108</LengthMeters>
+    <MassTons>291</MassTons>
+    <MaximumSpeedKmph>160</MaximumSpeedKmph>
+    <Name>Z26500 4c US[T]</Name>
+    <CoefficientA>0.89</CoefficientA>
+    <CoefficientB>0.01</CoefficientB>
+    <CoefficientC>0.0002</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>67ee5426-d867-4bac-9cc3-678b45f7675b</Guid>
+    <CoefficientIMT>1.04</CoefficientIMT>
+    <Description>Migrated automatically from old traction unit : 1TGVPOS
+ 1US TGV POS (M+8R+R)                     </Description>
+    <LengthMeters>200</LengthMeters>
+    <MassTons>420</MassTons>
+    <MaximumSpeedKmph>320</MaximumSpeedKmph>
+    <Name>1TGVPOS</Name>
+    <CoefficientA>0.6405</CoefficientA>
+    <CoefficientB>0.00755</CoefficientB>
+    <CoefficientC>0.0001214</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>6c7fd1c6-d1c2-4437-ae3d-420a095653d3</Guid>
+    <CoefficientIMT>1.04</CoefficientIMT>
+    <Description>Migrated automatically from old rolling stock : CORAIL</Description>
+    <LengthMeters>390</LengthMeters>
+    <MassTons>690</MassTons>
+    <MaximumSpeedKmph>999</MaximumSpeedKmph>
+    <Name>CORAIL 15V</Name>
+    <CoefficientA>0.8596</CoefficientA>
+    <CoefficientB>0.00761</CoefficientB>
+    <CoefficientC>0.000174</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0.000174</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0.000174</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>82feb04e-0cfa-4dfb-b21f-7f271744ae26</Guid>
+    <CoefficientIMT>0</CoefficientIMT>
+    <Description>Migrated automatically from old rolling stock : A</Description>
+    <LengthMeters>0</LengthMeters>
+    <MassTons>0</MassTons>
+    <MaximumSpeedKmph>999</MaximumSpeedKmph>
+    <Name>A</Name>
+    <CoefficientA>0</CoefficientA>
+    <CoefficientB>0</CoefficientB>
+    <CoefficientC>0</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>90ac325f-c69d-44f6-a8ed-c9935d9ee08e</Guid>
+    <CoefficientIMT>1.041</CoefficientIMT>
+    <Description>Migrated automatically from old traction unit : 2X76503
+ 1AGC - X STD 3 CAISSES UM2 (DIESEL SEUL) </Description>
+    <LengthMeters>114</LengthMeters>
+    <MassTons>271</MassTons>
+    <MaximumSpeedKmph>160</MaximumSpeedKmph>
+    <Name>2X76503</Name>
+    <CoefficientA>0.9225</CoefficientA>
+    <CoefficientB>0.01151</CoefficientB>
+    <CoefficientC>0.0002081</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>9a4d01d5-38ef-4fdf-b362-ca6d71026a84</Guid>
+    <CoefficientIMT>1.04</CoefficientIMT>
+    <Description>Migrated automatically as freight from old rolling stock MA100 and trainset MA100 BB26000 MA100 0V 500m 1600tons</Description>
+    <LengthMeters>483</LengthMeters>
+    <MassTons>1600</MassTons>
+    <MaximumSpeedKmph>999</MaximumSpeedKmph>
+    <Name>MA100 1600 tons 500 m</Name>
+    <CoefficientA>1.2</CoefficientA>
+    <CoefficientB>0.009</CoefficientB>
+    <CoefficientC>0.00044</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0.00044</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0.00044</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>a0530fd6-fb7f-46fa-889f-77616b16abe2</Guid>
+    <CoefficientIMT>1.2</CoefficientIMT>
+    <Description>Migrated automatically as freight from old rolling stock TRAINLOC and trainset MA100 BB22200[T] TRAINLOC 0V 17m 0tons</Description>
+    <LengthMeters>0</LengthMeters>
+    <MassTons>0</MassTons>
+    <MaximumSpeedKmph>999</MaximumSpeedKmph>
+    <Name>TRAINLOC 0 tons 17 m</Name>
+    <CoefficientA>1.3</CoefficientA>
+    <CoefficientB>0.01</CoefficientB>
+    <CoefficientC>0.0001875</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0.0001875</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0.0001875</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>a789aeb7-a3c5-427e-a4e3-ec8398336a57</Guid>
+    <CoefficientIMT>1.035</CoefficientIMT>
+    <Description>Migrated automatically from old traction unit : 1Z55508
+ 1MRA PH US CN4 ZL                        </Description>
+    <LengthMeters>110</LengthMeters>
+    <MassTons>317</MassTons>
+    <MaximumSpeedKmph>160</MaximumSpeedKmph>
+    <Name>1Z55508</Name>
+    <CoefficientA>0.9019</CoefficientA>
+    <CoefficientB>0.00716</CoefficientB>
+    <CoefficientC>0.0001945</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>afac84e9-7e8c-49d8-9a37-2728dc167858</Guid>
+    <CoefficientIMT>1.04</CoefficientIMT>
+    <Description>Migrated automatically from old traction unit : TGVD US
+ TGV DUPLEX M+8R+M (424T)             </Description>
+    <LengthMeters>200</LengthMeters>
+    <MassTons>424</MassTons>
+    <MaximumSpeedKmph>320</MaximumSpeedKmph>
+    <Name>TGVD US</Name>
+    <CoefficientA>0.6368</CoefficientA>
+    <CoefficientB>0.00755</CoefficientB>
+    <CoefficientC>0.0001262</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>c44261f6-52ce-4ad7-a9fb-3064872e650f</Guid>
+    <CoefficientIMT>1.041</CoefficientIMT>
+    <Description>Migrated automatically from old traction unit : X76500 3c US[T]
+ 1AGC - X STD 3 CAISSES ( DIESEL SEUL )   </Description>
+    <LengthMeters>57</LengthMeters>
+    <MassTons>136</MassTons>
+    <MaximumSpeedKmph>160</MaximumSpeedKmph>
+    <Name>X76500 3c US[T]</Name>
+    <CoefficientA>0.9225</CoefficientA>
+    <CoefficientB>0.01151</CoefficientB>
+    <CoefficientC>0.000245</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>cb1a3201-cd18-40a1-88f4-b9b1a6f67aa8</Guid>
+    <CoefficientIMT>1.04</CoefficientIMT>
+    <Description>Migrated automatically from old traction unit : TGVD UM
+UM TGV DUPLEX 2(M+8R+M)</Description>
+    <LengthMeters>400</LengthMeters>
+    <MassTons>848</MassTons>
+    <MaximumSpeedKmph>320</MaximumSpeedKmph>
+    <Name>TGVD UM</Name>
+    <CoefficientA>0.6368</CoefficientA>
+    <CoefficientB>0.00755</CoefficientB>
+    <CoefficientC>0.0001199</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>ddbf9fa1-f204-41b2-836b-cccc7fcc34c1</Guid>
+    <CoefficientIMT>1.04</CoefficientIMT>
+    <Description>Migrated automatically from old traction unit : TGVR US
+   1US TGVR M+8R+M BICOURANT                </Description>
+    <LengthMeters>200</LengthMeters>
+    <MassTons>416</MassTons>
+    <MaximumSpeedKmph>320</MaximumSpeedKmph>
+    <Name>TGVR US</Name>
+    <CoefficientA>0.601</CoefficientA>
+    <CoefficientB>0.00793</CoefficientB>
+    <CoefficientC>0.0001226</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>e3e5bb9d-135e-428c-bb1e-a4a6df829c49</Guid>
+    <CoefficientIMT>1.056</CoefficientIMT>
+    <Description>Migrated automatically from old traction unit : Z23500 US
+Z23500 US BICOURANT 1,5KV/25KV (Z+ZR)</Description>
+    <LengthMeters>53</LengthMeters>
+    <MassTons>142</MassTons>
+    <MaximumSpeedKmph>140</MaximumSpeedKmph>
+    <Name>Z23500 US</Name>
+    <CoefficientA>0.9155</CoefficientA>
+    <CoefficientB>0.01</CoefficientB>
+    <CoefficientC>0.0002669</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>ec7f975c-1452-4220-aeda-5b2cda0ea1cd</Guid>
+    <CoefficientIMT>1.04</CoefficientIMT>
+    <Description>Migrated automatically from old rolling stock : CORAIL</Description>
+    <LengthMeters>260</LengthMeters>
+    <MassTons>460</MassTons>
+    <MaximumSpeedKmph>999</MaximumSpeedKmph>
+    <Name>CORAIL 10V</Name>
+    <CoefficientA>0.8596</CoefficientA>
+    <CoefficientB>0.00761</CoefficientB>
+    <CoefficientC>0.000174</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0.000174</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0.000174</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>f0cebef1-4561-4067-8fac-866907c07948</Guid>
+    <CoefficientIMT>1.16</CoefficientIMT>
+    <Description>Migrated automatically from old traction unit : BB22200[T]
+  1BB 22200 GV-F(V)MONO SC=AC=CL 25=22,5   </Description>
+    <LengthMeters>17</LengthMeters>
+    <MassTons>90</MassTons>
+    <MaximumSpeedKmph>180</MaximumSpeedKmph>
+    <Name>BB22200[T]</Name>
+    <CoefficientA>1.23</CoefficientA>
+    <CoefficientB>0.01</CoefficientB>
+    <CoefficientC>0.0003352</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>f2b39f4a-d153-43c6-9ecd-f1c13a6c4440</Guid>
+    <CoefficientIMT>1.04</CoefficientIMT>
+    <Description>Migrated automatically from old rolling stock : CORAIL</Description>
+    <LengthMeters>208</LengthMeters>
+    <MassTons>368</MassTons>
+    <MaximumSpeedKmph>999</MaximumSpeedKmph>
+    <Name>CORAIL 8V</Name>
+    <CoefficientA>0.8596</CoefficientA>
+    <CoefficientB>0.00761</CoefficientB>
+    <CoefficientC>0.000174</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0.000174</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0.000174</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>f2e713e4-a7e7-4644-a44b-3166ae44a0c3</Guid>
+    <CoefficientIMT>1.04</CoefficientIMT>
+    <Description>Migrated automatically from old rolling stock : CORAIL</Description>
+    <LengthMeters>78</LengthMeters>
+    <MassTons>138</MassTons>
+    <MaximumSpeedKmph>999</MaximumSpeedKmph>
+    <Name>CORAIL 3V</Name>
+    <CoefficientA>0.8596</CoefficientA>
+    <CoefficientB>0.00761</CoefficientB>
+    <CoefficientC>0.000174</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0.000174</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0.000174</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>f91724e3-0b9d-439a-bae5-d8d86932f32a</Guid>
+    <CoefficientIMT>1.04</CoefficientIMT>
+    <Description>Migrated automatically from old rolling stock : CORAIL</Description>
+    <LengthMeters>26</LengthMeters>
+    <MassTons>46</MassTons>
+    <MaximumSpeedKmph>999</MaximumSpeedKmph>
+    <Name>CORAIL 1V</Name>
+    <CoefficientA>0.8596</CoefficientA>
+    <CoefficientB>0.00761</CoefficientB>
+    <CoefficientC>0.000174</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0.000174</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0.000174</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+  <VehicleXml>
+    <Guid>fe6fb563-bb02-4021-9566-00a3f22b0e1f</Guid>
+    <CoefficientIMT>1.2</CoefficientIMT>
+    <Description>Migrated automatically from old traction unit : Y8000AG
+ 1Y 8000  GR                              </Description>
+    <LengthMeters>9</LengthMeters>
+    <MassTons>36</MassTons>
+    <MaximumSpeedKmph>60</MaximumSpeedKmph>
+    <Name>Y8000AG</Name>
+    <CoefficientA>1.37</CoefficientA>
+    <CoefficientB>0.01</CoefficientB>
+    <CoefficientC>0.0008333</CoefficientC>
+    <CoefficientCTunnelDuctsClosed>0</CoefficientCTunnelDuctsClosed>
+    <CoefficientCTunnelDuctsOpen>0</CoefficientCTunnelDuctsOpen>
+    <PowerStaticWatts>0</PowerStaticWatts>
+  </VehicleXml>
+</ArrayOfVehicleXml>

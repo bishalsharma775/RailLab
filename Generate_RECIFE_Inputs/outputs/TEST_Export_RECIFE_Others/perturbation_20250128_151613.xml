@@ -1,0 +1,30 @@
+<recifeObjects>
+  <PerturbationScenarioDefinition>
+    <perturbationsList>
+      <perturbation perturbation_Id="perturbation_881105">
+        <entranceDelayPert>
+          <course_RefId>881105</course_RefId>
+          <value>4365</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881119">
+        <entranceDelayPert>
+          <course_RefId>881119</course_RefId>
+          <value>2333</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_48369">
+        <entranceDelayPert>
+          <course_RefId>48369</course_RefId>
+          <value>1677</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881103">
+        <entranceDelayPert>
+          <course_RefId>881103</course_RefId>
+          <value>4136</value>
+        </entranceDelayPert>
+      </perturbation>
+    </perturbationsList>
+  </PerturbationScenarioDefinition>
+</recifeObjects>

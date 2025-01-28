@@ -1,0 +1,1044 @@
+Train Number: 881206
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881213
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881123
+For Train: 881123  Reference Path  1
+Warning: TrackCircuitOccupation 'Circuit_428' is missing one or more time values for HeadEntryTime, TailEntryTime, HeadExitTime, or TailExitTime.
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881222
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+For Train: 881222  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_428'
+For Train: 881222  Train Variant  3
+Number of track circuits 167 in timetable file does not match number of TC for all elementary routes in infra file 166.
+__________________________________________________________________________________________________________________
+
+For Train: 881222  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_172'
+For Train: 881222  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_111'
+For Train: 881222  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_384'
+For Train: 881222  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_383'
+For Train: 881222  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_550'
+For Train: 881222  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_547'
+For Train: 881222  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_381'
+For Train: 881222  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_546'
+For Train: 881222  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_439'
+For Train: 881222  Train Variant  4
+Number of track circuits 158 in timetable file does not match number of TC for all elementary routes in infra file 149.
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881109
+For Train: 881109  Reference Path  1
+Warning: TrackCircuitOccupation 'Circuit_428' is missing one or more time values for HeadEntryTime, TailEntryTime, HeadExitTime, or TailExitTime.
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881143
+For Train: 881143  Reference Path  1
+Warning: TrackCircuitOccupation 'Circuit_428' is missing one or more time values for HeadEntryTime, TailEntryTime, HeadExitTime, or TailExitTime.
+For Train: 881143  Reference Path  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_419'
+For Train: 881143  Reference Path  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_420'
+For Train: 881143  Reference Path  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_421'
+For Train: 881143  Reference Path  1
+Number of track circuits 119 in timetable file does not match number of TC for all elementary routes in infra file 116.
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+For Train: 881143  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_419'
+For Train: 881143  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_420'
+For Train: 881143  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_421'
+For Train: 881143  Train Variant  2
+Number of track circuits 124 in timetable file does not match number of TC for all elementary routes in infra file 121.
+__________________________________________________________________________________________________________________
+
+For Train: 881143  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_419'
+For Train: 881143  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_420'
+For Train: 881143  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_421'
+For Train: 881143  Train Variant  3
+Number of track circuits 126 in timetable file does not match number of TC for all elementary routes in infra file 123.
+__________________________________________________________________________________________________________________
+
+For Train: 881143  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_419'
+For Train: 881143  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_420'
+For Train: 881143  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_421'
+For Train: 881143  Train Variant  4
+Number of track circuits 118 in timetable file does not match number of TC for all elementary routes in infra file 115.
+__________________________________________________________________________________________________________________
+
+For Train: 881143  Train Variant  5
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_419'
+For Train: 881143  Train Variant  5
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_420'
+For Train: 881143  Train Variant  5
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_421'
+For Train: 881143  Train Variant  5
+Number of track circuits 124 in timetable file does not match number of TC for all elementary routes in infra file 121.
+__________________________________________________________________________________________________________________
+
+Train Number: 881108
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+For Train: 881108  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_240' not in timetable file but in infra file.
+For Train: 881108  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_238' not in timetable file but in infra file.
+For Train: 881108  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_494' not in timetable file but in infra file.
+For Train: 881108  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_237' not in timetable file but in infra file.
+For Train: 881108  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_492' not in timetable file but in infra file.
+For Train: 881108  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_490' not in timetable file but in infra file.
+For Train: 881108  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_234' not in timetable file but in infra file.
+For Train: 881108  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_233' not in timetable file but in infra file.
+For Train: 881108  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_232' not in timetable file but in infra file.
+For Train: 881108  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_488' not in timetable file but in infra file.
+For Train: 881108  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_228' not in timetable file but in infra file.
+For Train: 881108  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_486' not in timetable file but in infra file.
+For Train: 881108  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_226' not in timetable file but in infra file.
+For Train: 881108  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_225' not in timetable file but in infra file.
+For Train: 881108  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_224' not in timetable file but in infra file.
+For Train: 881108  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_484' not in timetable file but in infra file.
+For Train: 881108  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_220' not in timetable file but in infra file.
+For Train: 881108  Train Variant  2
+Number of track circuits 123 in timetable file does not match number of TC for all elementary routes in infra file 142.
+__________________________________________________________________________________________________________________
+
+For Train: 881108  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_140' not in timetable file but in infra file.
+For Train: 881108  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_240' not in timetable file but in infra file.
+For Train: 881108  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_238' not in timetable file but in infra file.
+For Train: 881108  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_494' not in timetable file but in infra file.
+For Train: 881108  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_237' not in timetable file but in infra file.
+For Train: 881108  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_492' not in timetable file but in infra file.
+For Train: 881108  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_490' not in timetable file but in infra file.
+For Train: 881108  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_234' not in timetable file but in infra file.
+For Train: 881108  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_233' not in timetable file but in infra file.
+For Train: 881108  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_232' not in timetable file but in infra file.
+For Train: 881108  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_488' not in timetable file but in infra file.
+For Train: 881108  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_228' not in timetable file but in infra file.
+For Train: 881108  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_486' not in timetable file but in infra file.
+For Train: 881108  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_226' not in timetable file but in infra file.
+For Train: 881108  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_225' not in timetable file but in infra file.
+For Train: 881108  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_224' not in timetable file but in infra file.
+For Train: 881108  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_484' not in timetable file but in infra file.
+For Train: 881108  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_220' not in timetable file but in infra file.
+For Train: 881108  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_172'
+For Train: 881108  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_111'
+For Train: 881108  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_384'
+For Train: 881108  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_383'
+For Train: 881108  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_550'
+For Train: 881108  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_547'
+For Train: 881108  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_381'
+For Train: 881108  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_546'
+For Train: 881108  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_439'
+For Train: 881108  Train Variant  3
+Number of track circuits 120 in timetable file does not match number of TC for all elementary routes in infra file 130.
+__________________________________________________________________________________________________________________
+
+For Train: 881108  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_140' not in timetable file but in infra file.
+For Train: 881108  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_240' not in timetable file but in infra file.
+For Train: 881108  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_238' not in timetable file but in infra file.
+For Train: 881108  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_494' not in timetable file but in infra file.
+For Train: 881108  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_237' not in timetable file but in infra file.
+For Train: 881108  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_492' not in timetable file but in infra file.
+For Train: 881108  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_490' not in timetable file but in infra file.
+For Train: 881108  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_234' not in timetable file but in infra file.
+For Train: 881108  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_233' not in timetable file but in infra file.
+For Train: 881108  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_232' not in timetable file but in infra file.
+For Train: 881108  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_488' not in timetable file but in infra file.
+For Train: 881108  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_228' not in timetable file but in infra file.
+For Train: 881108  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_486' not in timetable file but in infra file.
+For Train: 881108  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_226' not in timetable file but in infra file.
+For Train: 881108  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_225' not in timetable file but in infra file.
+For Train: 881108  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_224' not in timetable file but in infra file.
+For Train: 881108  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_484' not in timetable file but in infra file.
+For Train: 881108  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_220' not in timetable file but in infra file.
+For Train: 881108  Train Variant  4
+Number of track circuits 118 in timetable file does not match number of TC for all elementary routes in infra file 137.
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881212
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881220
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881147
+For Train: 881147  Reference Path  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_419'
+For Train: 881147  Reference Path  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_420'
+For Train: 881147  Reference Path  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_421'
+For Train: 881147  Reference Path  1
+Number of track circuits 119 in timetable file does not match number of TC for all elementary routes in infra file 116.
+__________________________________________________________________________________________________________________
+
+For Train: 881147  Train Variant  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_419'
+For Train: 881147  Train Variant  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_420'
+For Train: 881147  Train Variant  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_421'
+For Train: 881147  Train Variant  1
+Number of track circuits 119 in timetable file does not match number of TC for all elementary routes in infra file 116.
+__________________________________________________________________________________________________________________
+
+For Train: 881147  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_419'
+For Train: 881147  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_420'
+For Train: 881147  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_421'
+For Train: 881147  Train Variant  2
+Number of track circuits 119 in timetable file does not match number of TC for all elementary routes in infra file 116.
+__________________________________________________________________________________________________________________
+
+For Train: 881147  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_419'
+For Train: 881147  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_420'
+For Train: 881147  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_421'
+For Train: 881147  Train Variant  3
+Number of track circuits 123 in timetable file does not match number of TC for all elementary routes in infra file 120.
+__________________________________________________________________________________________________________________
+
+For Train: 881147  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_419'
+For Train: 881147  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_420'
+For Train: 881147  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_421'
+For Train: 881147  Train Variant  4
+Number of track circuits 117 in timetable file does not match number of TC for all elementary routes in infra file 114.
+__________________________________________________________________________________________________________________
+
+For Train: 881147  Train Variant  5
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_419'
+For Train: 881147  Train Variant  5
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_420'
+For Train: 881147  Train Variant  5
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_421'
+For Train: 881147  Train Variant  5
+Number of track circuits 122 in timetable file does not match number of TC for all elementary routes in infra file 119.
+__________________________________________________________________________________________________________________
+
+Train Number: 881208
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881210
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881223
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881132
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+For Train: 881132  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_172'
+For Train: 881132  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_111'
+For Train: 881132  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_384'
+For Train: 881132  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_383'
+For Train: 881132  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_550'
+For Train: 881132  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_547'
+For Train: 881132  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_381'
+For Train: 881132  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_546'
+For Train: 881132  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_439'
+For Train: 881132  Train Variant  3
+Number of track circuits 92 in timetable file does not match number of TC for all elementary routes in infra file 83.
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881209
+For Train: 881209  Reference Path  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_521'
+For Train: 881209  Reference Path  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_5'
+For Train: 881209  Reference Path  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_196'
+For Train: 881209  Reference Path  1
+Extra Track Circuit found in timetable file: Track Circuit 'NewTrackCircuit'
+For Train: 881209  Reference Path  1
+Number of track circuits 161 in timetable file does not match number of TC for all elementary routes in infra file 157.
+__________________________________________________________________________________________________________________
+
+For Train: 881209  Train Variant  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_521'
+For Train: 881209  Train Variant  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_5'
+For Train: 881209  Train Variant  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_195'
+For Train: 881209  Train Variant  1
+Number of track circuits 165 in timetable file does not match number of TC for all elementary routes in infra file 162.
+__________________________________________________________________________________________________________________
+
+For Train: 881209  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_521'
+For Train: 881209  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_5'
+For Train: 881209  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_196'
+For Train: 881209  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'NewTrackCircuit'
+For Train: 881209  Train Variant  2
+Number of track circuits 168 in timetable file does not match number of TC for all elementary routes in infra file 164.
+__________________________________________________________________________________________________________________
+
+For Train: 881209  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_521'
+For Train: 881209  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_5'
+For Train: 881209  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_196'
+For Train: 881209  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'NewTrackCircuit'
+For Train: 881209  Train Variant  3
+Number of track circuits 170 in timetable file does not match number of TC for all elementary routes in infra file 166.
+__________________________________________________________________________________________________________________
+
+For Train: 881209  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_521'
+For Train: 881209  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_5'
+For Train: 881209  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_195'
+For Train: 881209  Train Variant  4
+Number of track circuits 162 in timetable file does not match number of TC for all elementary routes in infra file 159.
+__________________________________________________________________________________________________________________
+
+For Train: 881209  Train Variant  5
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_521'
+For Train: 881209  Train Variant  5
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_5'
+For Train: 881209  Train Variant  5
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_195'
+For Train: 881209  Train Variant  5
+Number of track circuits 165 in timetable file does not match number of TC for all elementary routes in infra file 162.
+__________________________________________________________________________________________________________________
+
+Train Number: 881107
+For Train: 881107  Reference Path  1
+Warning: TrackCircuitOccupation 'Circuit_428' is missing one or more time values for HeadEntryTime, TailEntryTime, HeadExitTime, or TailExitTime.
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881112
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881118
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+For Train: 881118  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_240' not in timetable file but in infra file.
+For Train: 881118  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_238' not in timetable file but in infra file.
+For Train: 881118  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_494' not in timetable file but in infra file.
+For Train: 881118  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_237' not in timetable file but in infra file.
+For Train: 881118  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_492' not in timetable file but in infra file.
+For Train: 881118  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_490' not in timetable file but in infra file.
+For Train: 881118  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_234' not in timetable file but in infra file.
+For Train: 881118  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_233' not in timetable file but in infra file.
+For Train: 881118  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_232' not in timetable file but in infra file.
+For Train: 881118  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_488' not in timetable file but in infra file.
+For Train: 881118  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_228' not in timetable file but in infra file.
+For Train: 881118  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_486' not in timetable file but in infra file.
+For Train: 881118  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_226' not in timetable file but in infra file.
+For Train: 881118  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_225' not in timetable file but in infra file.
+For Train: 881118  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_224' not in timetable file but in infra file.
+For Train: 881118  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_484' not in timetable file but in infra file.
+For Train: 881118  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_220' not in timetable file but in infra file.
+For Train: 881118  Train Variant  2
+Number of track circuits 78 in timetable file does not match number of TC for all elementary routes in infra file 97.
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+For Train: 881118  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_240' not in timetable file but in infra file.
+For Train: 881118  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_238' not in timetable file but in infra file.
+For Train: 881118  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_494' not in timetable file but in infra file.
+For Train: 881118  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_237' not in timetable file but in infra file.
+For Train: 881118  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_492' not in timetable file but in infra file.
+For Train: 881118  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_490' not in timetable file but in infra file.
+For Train: 881118  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_234' not in timetable file but in infra file.
+For Train: 881118  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_233' not in timetable file but in infra file.
+For Train: 881118  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_232' not in timetable file but in infra file.
+For Train: 881118  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_488' not in timetable file but in infra file.
+For Train: 881118  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_228' not in timetable file but in infra file.
+For Train: 881118  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_486' not in timetable file but in infra file.
+For Train: 881118  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_226' not in timetable file but in infra file.
+For Train: 881118  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_225' not in timetable file but in infra file.
+For Train: 881118  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_224' not in timetable file but in infra file.
+For Train: 881118  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_484' not in timetable file but in infra file.
+For Train: 881118  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_220' not in timetable file but in infra file.
+For Train: 881118  Train Variant  4
+Number of track circuits 76 in timetable file does not match number of TC for all elementary routes in infra file 95.
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881129
+For Train: 881129  Reference Path  1
+Warning: TrackCircuitOccupation 'Circuit_428' is missing one or more time values for HeadEntryTime, TailEntryTime, HeadExitTime, or TailExitTime.
+For Train: 881129  Reference Path  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_419'
+For Train: 881129  Reference Path  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_420'
+For Train: 881129  Reference Path  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_421'
+For Train: 881129  Reference Path  1
+Number of track circuits 122 in timetable file does not match number of TC for all elementary routes in infra file 119.
+__________________________________________________________________________________________________________________
+
+For Train: 881129  Train Variant  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_419'
+For Train: 881129  Train Variant  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_420'
+For Train: 881129  Train Variant  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_421'
+For Train: 881129  Train Variant  1
+Number of track circuits 120 in timetable file does not match number of TC for all elementary routes in infra file 117.
+__________________________________________________________________________________________________________________
+
+For Train: 881129  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_419'
+For Train: 881129  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_420'
+For Train: 881129  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_421'
+For Train: 881129  Train Variant  2
+Number of track circuits 126 in timetable file does not match number of TC for all elementary routes in infra file 123.
+__________________________________________________________________________________________________________________
+
+For Train: 881129  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_419'
+For Train: 881129  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_420'
+For Train: 881129  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_421'
+For Train: 881129  Train Variant  3
+Number of track circuits 124 in timetable file does not match number of TC for all elementary routes in infra file 121.
+__________________________________________________________________________________________________________________
+
+For Train: 881129  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_419'
+For Train: 881129  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_420'
+For Train: 881129  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_421'
+For Train: 881129  Train Variant  4
+Number of track circuits 124 in timetable file does not match number of TC for all elementary routes in infra file 121.
+__________________________________________________________________________________________________________________
+
+For Train: 881129  Train Variant  5
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_419'
+For Train: 881129  Train Variant  5
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_420'
+For Train: 881129  Train Variant  5
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_421'
+For Train: 881129  Train Variant  5
+Number of track circuits 124 in timetable file does not match number of TC for all elementary routes in infra file 121.
+__________________________________________________________________________________________________________________
+
+Train Number: 881110
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+For Train: 881110  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_172'
+For Train: 881110  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_111'
+For Train: 881110  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_384'
+For Train: 881110  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_383'
+For Train: 881110  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_550'
+For Train: 881110  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_547'
+For Train: 881110  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_381'
+For Train: 881110  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_546'
+For Train: 881110  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_439'
+For Train: 881110  Train Variant  3
+Number of track circuits 95 in timetable file does not match number of TC for all elementary routes in infra file 86.
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881217
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881225
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881138
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+For Train: 881138  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_140' not in timetable file but in infra file.
+For Train: 881138  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_240' not in timetable file but in infra file.
+For Train: 881138  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_238' not in timetable file but in infra file.
+For Train: 881138  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_494' not in timetable file but in infra file.
+For Train: 881138  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_237' not in timetable file but in infra file.
+For Train: 881138  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_492' not in timetable file but in infra file.
+For Train: 881138  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_490' not in timetable file but in infra file.
+For Train: 881138  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_234' not in timetable file but in infra file.
+For Train: 881138  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_233' not in timetable file but in infra file.
+For Train: 881138  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_232' not in timetable file but in infra file.
+For Train: 881138  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_488' not in timetable file but in infra file.
+For Train: 881138  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_228' not in timetable file but in infra file.
+For Train: 881138  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_486' not in timetable file but in infra file.
+For Train: 881138  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_226' not in timetable file but in infra file.
+For Train: 881138  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_225' not in timetable file but in infra file.
+For Train: 881138  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_224' not in timetable file but in infra file.
+For Train: 881138  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_484' not in timetable file but in infra file.
+For Train: 881138  Train Variant  2
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_220' not in timetable file but in infra file.
+For Train: 881138  Train Variant  2
+Number of track circuits 69 in timetable file does not match number of TC for all elementary routes in infra file 88.
+__________________________________________________________________________________________________________________
+
+For Train: 881138  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_240' not in timetable file but in infra file.
+For Train: 881138  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_238' not in timetable file but in infra file.
+For Train: 881138  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_494' not in timetable file but in infra file.
+For Train: 881138  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_237' not in timetable file but in infra file.
+For Train: 881138  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_492' not in timetable file but in infra file.
+For Train: 881138  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_490' not in timetable file but in infra file.
+For Train: 881138  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_234' not in timetable file but in infra file.
+For Train: 881138  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_233' not in timetable file but in infra file.
+For Train: 881138  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_232' not in timetable file but in infra file.
+For Train: 881138  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_488' not in timetable file but in infra file.
+For Train: 881138  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_228' not in timetable file but in infra file.
+For Train: 881138  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_486' not in timetable file but in infra file.
+For Train: 881138  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_226' not in timetable file but in infra file.
+For Train: 881138  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_225' not in timetable file but in infra file.
+For Train: 881138  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_224' not in timetable file but in infra file.
+For Train: 881138  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_484' not in timetable file but in infra file.
+For Train: 881138  Train Variant  3
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_220' not in timetable file but in infra file.
+For Train: 881138  Train Variant  3
+Number of track circuits 73 in timetable file does not match number of TC for all elementary routes in infra file 92.
+__________________________________________________________________________________________________________________
+
+For Train: 881138  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_140' not in timetable file but in infra file.
+For Train: 881138  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_240' not in timetable file but in infra file.
+For Train: 881138  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_238' not in timetable file but in infra file.
+For Train: 881138  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_494' not in timetable file but in infra file.
+For Train: 881138  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_237' not in timetable file but in infra file.
+For Train: 881138  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_492' not in timetable file but in infra file.
+For Train: 881138  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_490' not in timetable file but in infra file.
+For Train: 881138  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_234' not in timetable file but in infra file.
+For Train: 881138  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_233' not in timetable file but in infra file.
+For Train: 881138  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_232' not in timetable file but in infra file.
+For Train: 881138  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_488' not in timetable file but in infra file.
+For Train: 881138  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_228' not in timetable file but in infra file.
+For Train: 881138  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_486' not in timetable file but in infra file.
+For Train: 881138  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_226' not in timetable file but in infra file.
+For Train: 881138  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_225' not in timetable file but in infra file.
+For Train: 881138  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_224' not in timetable file but in infra file.
+For Train: 881138  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_484' not in timetable file but in infra file.
+For Train: 881138  Train Variant  4
+Inconsistency found in route 'IE C74 C146': Track Circuit 'Circuit_220' not in timetable file but in infra file.
+For Train: 881138  Train Variant  4
+Number of track circuits 75 in timetable file does not match number of TC for all elementary routes in infra file 94.
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881205
+For Train: 881205  Reference Path  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_521'
+For Train: 881205  Reference Path  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_5'
+For Train: 881205  Reference Path  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_196'
+For Train: 881205  Reference Path  1
+Extra Track Circuit found in timetable file: Track Circuit 'NewTrackCircuit'
+For Train: 881205  Reference Path  1
+Number of track circuits 117 in timetable file does not match number of TC for all elementary routes in infra file 113.
+__________________________________________________________________________________________________________________
+
+For Train: 881205  Train Variant  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_521'
+For Train: 881205  Train Variant  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_5'
+For Train: 881205  Train Variant  1
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_195'
+For Train: 881205  Train Variant  1
+Number of track circuits 124 in timetable file does not match number of TC for all elementary routes in infra file 121.
+__________________________________________________________________________________________________________________
+
+For Train: 881205  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_521'
+For Train: 881205  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_5'
+For Train: 881205  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_196'
+For Train: 881205  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'NewTrackCircuit'
+For Train: 881205  Train Variant  2
+Number of track circuits 118 in timetable file does not match number of TC for all elementary routes in infra file 114.
+__________________________________________________________________________________________________________________
+
+For Train: 881205  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_521'
+For Train: 881205  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_5'
+For Train: 881205  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_196'
+For Train: 881205  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'NewTrackCircuit'
+For Train: 881205  Train Variant  3
+Number of track circuits 121 in timetable file does not match number of TC for all elementary routes in infra file 117.
+__________________________________________________________________________________________________________________
+
+For Train: 881205  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_521'
+For Train: 881205  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_5'
+For Train: 881205  Train Variant  4
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_195'
+For Train: 881205  Train Variant  4
+Number of track circuits 120 in timetable file does not match number of TC for all elementary routes in infra file 117.
+__________________________________________________________________________________________________________________
+
+For Train: 881205  Train Variant  5
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_521'
+For Train: 881205  Train Variant  5
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_5'
+For Train: 881205  Train Variant  5
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_196'
+For Train: 881205  Train Variant  5
+Extra Track Circuit found in timetable file: Track Circuit 'NewTrackCircuit'
+For Train: 881205  Train Variant  5
+Number of track circuits 117 in timetable file does not match number of TC for all elementary routes in infra file 113.
+__________________________________________________________________________________________________________________
+
+Train Number: 881116
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+For Train: 881116  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_172'
+For Train: 881116  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_111'
+For Train: 881116  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_384'
+For Train: 881116  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_383'
+For Train: 881116  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_550'
+For Train: 881116  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_547'
+For Train: 881116  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_381'
+For Train: 881116  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_546'
+For Train: 881116  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_439'
+For Train: 881116  Train Variant  2
+Number of track circuits 48 in timetable file does not match number of TC for all elementary routes in infra file 39.
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881219
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881126
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+For Train: 881126  Train Variant  2
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_428'
+For Train: 881126  Train Variant  2
+Number of track circuits 48 in timetable file does not match number of TC for all elementary routes in infra file 47.
+__________________________________________________________________________________________________________________
+
+For Train: 881126  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_172'
+For Train: 881126  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_111'
+For Train: 881126  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_384'
+For Train: 881126  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_383'
+For Train: 881126  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_550'
+For Train: 881126  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_547'
+For Train: 881126  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_381'
+For Train: 881126  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_546'
+For Train: 881126  Train Variant  3
+Extra Track Circuit found in timetable file: Track Circuit 'Circuit_439'
+For Train: 881126  Train Variant  3
+Number of track circuits 43 in timetable file does not match number of TC for all elementary routes in infra file 34.
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+Train Number: 881131
+For Train: 881131  Reference Path  1
+Warning: TrackCircuitOccupation 'Circuit_428' is missing one or more time values for HeadEntryTime, TailEntryTime, HeadExitTime, or TailExitTime.
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+

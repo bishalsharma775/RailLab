@@ -1,0 +1,174 @@
+<recifeObjects>
+  <PerturbationScenarioDefinition>
+    <perturbationsList>
+      <perturbation perturbation_Id="perturbation_881206">
+        <entranceDelayPert>
+          <course_RefId>881206</course_RefId>
+          <value>4105</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881213">
+        <entranceDelayPert>
+          <course_RefId>881213</course_RefId>
+          <value>1952</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881123">
+        <entranceDelayPert>
+          <course_RefId>881123</course_RefId>
+          <value>2487</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881222">
+        <entranceDelayPert>
+          <course_RefId>881222</course_RefId>
+          <value>4129</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881109">
+        <entranceDelayPert>
+          <course_RefId>881109</course_RefId>
+          <value>3831</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881143">
+        <entranceDelayPert>
+          <course_RefId>881143</course_RefId>
+          <value>4623</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881108">
+        <entranceDelayPert>
+          <course_RefId>881108</course_RefId>
+          <value>2246</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881212">
+        <entranceDelayPert>
+          <course_RefId>881212</course_RefId>
+          <value>4324</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881220">
+        <entranceDelayPert>
+          <course_RefId>881220</course_RefId>
+          <value>2926</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881147">
+        <entranceDelayPert>
+          <course_RefId>881147</course_RefId>
+          <value>1643</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881208">
+        <entranceDelayPert>
+          <course_RefId>881208</course_RefId>
+          <value>3198</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881210">
+        <entranceDelayPert>
+          <course_RefId>881210</course_RefId>
+          <value>2706</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881223">
+        <entranceDelayPert>
+          <course_RefId>881223</course_RefId>
+          <value>3319</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881132">
+        <entranceDelayPert>
+          <course_RefId>881132</course_RefId>
+          <value>1436</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881209">
+        <entranceDelayPert>
+          <course_RefId>881209</course_RefId>
+          <value>3230</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881107">
+        <entranceDelayPert>
+          <course_RefId>881107</course_RefId>
+          <value>4862</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881112">
+        <entranceDelayPert>
+          <course_RefId>881112</course_RefId>
+          <value>1091</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881118">
+        <entranceDelayPert>
+          <course_RefId>881118</course_RefId>
+          <value>1035</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881129">
+        <entranceDelayPert>
+          <course_RefId>881129</course_RefId>
+          <value>1226</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881110">
+        <entranceDelayPert>
+          <course_RefId>881110</course_RefId>
+          <value>4676</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881217">
+        <entranceDelayPert>
+          <course_RefId>881217</course_RefId>
+          <value>4829</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881225">
+        <entranceDelayPert>
+          <course_RefId>881225</course_RefId>
+          <value>2369</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881138">
+        <entranceDelayPert>
+          <course_RefId>881138</course_RefId>
+          <value>2640</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881205">
+        <entranceDelayPert>
+          <course_RefId>881205</course_RefId>
+          <value>1179</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881116">
+        <entranceDelayPert>
+          <course_RefId>881116</course_RefId>
+          <value>1599</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881219">
+        <entranceDelayPert>
+          <course_RefId>881219</course_RefId>
+          <value>4759</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881126">
+        <entranceDelayPert>
+          <course_RefId>881126</course_RefId>
+          <value>1574</value>
+        </entranceDelayPert>
+      </perturbation>
+      <perturbation perturbation_Id="perturbation_881131">
+        <entranceDelayPert>
+          <course_RefId>881131</course_RefId>
+          <value>2412</value>
+        </entranceDelayPert>
+      </perturbation>
+    </perturbationsList>
+  </PerturbationScenarioDefinition>
+</recifeObjects>
